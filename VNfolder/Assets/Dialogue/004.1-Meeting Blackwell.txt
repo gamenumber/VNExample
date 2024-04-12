@@ -1,0 +1,18 @@
+MARCUS
+There's no point in clashing with my boss on the first day, even if she does seem difficult.  Maybe even because she seems difficult.
+MARCUS
+It's best to just wait here.
+DR. BLACKWELL
+Ah, sorry that took so long. Good to see you can at least follow directions.
+DR. BLACKWELL
+That can't exactly be said about everyone here.
+DR. BLACKWELL
+Alright, to get samples in and out of storage and to get access to a lot of chemicals, you're going to need badge access. You've been outfitted, correct?
+MARCUS
+Uh, not yet, ma'am.
+DR. BLACKWELL
+Really?  That Adams...
+DR. BLACKWELL
+Can't be helped.  Mr. Chambers, the interim administrator, is probably in the computer lab this time of day.  Why don't you see if you can catch up with him and get yourself properly checked in.
+MARCUS
+Can do.
